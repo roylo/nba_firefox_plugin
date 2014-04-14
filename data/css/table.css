@@ -1,0 +1,43 @@
+
+table
+{
+    text-align: center;
+    border-collapse:collapse;
+    width: 450px;
+}
+
+td
+{
+    font-size: x-large;
+}
+
+td div
+{
+    font-size:10px;
+}
+
+tr{height:47px;}
+
+tr:hover
+{
+    background-color:#FFF8C6;
+    color:#000000;
+}
+
+.gameTrSelected
+{
+    color:#000000;
+    background-color:#FFF8C6;
+}
+
+#loadingDiv
+{
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#highlightsTable
+{
+    width:280px;
+}

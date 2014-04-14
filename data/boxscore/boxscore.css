@@ -1,0 +1,37 @@
+#boxDiv
+{
+    padding: 1px 0px 1px 3px;
+}
+
+
+#nbaGITeamStats
+{
+    margin: 5px;
+    width: 530px;
+    height: 400px;
+    font-size:9px;
+    border: solid 1px;
+    float: left;
+}
+
+#nbaGIPlyrStatus, #nbaGIPlyrStates
+{
+    width: 255px;
+    border: solid 1px;
+}
+
+#nbaGIPlyrStatus li
+{
+    width: 245px;
+}
+
+#nbaGIStatus
+{
+    margin: 5px 0px 0px 5px; 
+    width: 265px;
+}
+
+.nbaGITeamHdrStats
+{
+    font-size: 10px;
+}
